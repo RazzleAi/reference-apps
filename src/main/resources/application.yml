@@ -1,0 +1,10 @@
+
+
+razzle:
+ ai:
+  config:
+   app-id: eec2fe39ec43656c2095812a93f606d5
+   api-key: 64d533e280f305206baf7f104ea7fd9f836e1859049c0912a44a3c2fd00a4e15
+   server-url: ws://localhost:3333/agent
+   requires-auth: false
+
